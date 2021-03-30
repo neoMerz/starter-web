@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nicolo' Merzi nicolo.merzi.ii@gmail.com
 
 # THANKS
 
