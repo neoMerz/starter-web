@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to used Git and Github togheter. 
 
-Adding line for rebasing example.
+Adding line for rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
